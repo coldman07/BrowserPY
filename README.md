@@ -73,9 +73,6 @@ You can easily customize the browser by:
 - Extensions support
 - Keyboard shortcuts
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgements
 
